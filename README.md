@@ -21,8 +21,8 @@ The OpenCV library will come in handy for pre-processing steps.
 # What steps you have to follow??
 Download my Repository
 Create a Image folder in a project.
-Open a AMS_Run.py and change the all paths with your system path
-Run AMS_Run.py.
+Open a UAS.py and change the all paths with your system path
+Run UAS.py.
 
 ![image](https://github.com/Priyanka291988/Face-Recognition/assets/141348892/085e254b-f83d-4fb6-99a2-a3cadfe1677e)
 
