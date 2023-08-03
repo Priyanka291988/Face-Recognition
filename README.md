@@ -6,14 +6,17 @@ Facial recognition to alert unauthorized access based on Face Recognition using 
 To set up the libraries required for face recognition through Python:
 
 1. Go to the terminal and download the dlib library:
+   
 pip install dlib
 
 The dlib library is a C++ toolkit that features machine learning tools and algorithms. It is important to install it to use the face_recognition library.
 
 2. Use the following command to install the face_recognition library:
+   
 pip install face recognition
 
-3. Use the following command to download the OpenCV library:
+4. Use the following command to download the OpenCV library:
+   
 pip install opencv
 
 The OpenCV library will come in handy for pre-processing steps.
