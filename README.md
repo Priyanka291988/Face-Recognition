@@ -1,5 +1,7 @@
 # Face-Recognition
-Facial recognition to alert unauthorized access based on Face Recognition using Python and OpenCv
+Facial recognition to alert unauthorized access based on Face Recognition using Python and OpenCv.
+Firstly, face recognition enables security alerts on unknown faces, notifying homeowners of potential intruders through alert sounds. Secondly, it greets recognized family members by name, adding a personalized touch to the home environment. Additionally, home access control becomes seamless as the system automatically unlocks doors for authorized users. 
+Moreover, the technology ensures child and elderly safety by monitoring their movements and triggering alerts when needed. Integration with other smart devices allows for optimized energy consumption and a more user-friendly experience. 
 
 
 # Code Requirements
