@@ -35,7 +35,7 @@ import cv2
 import winsound  # For Windows systems
 
 # Load the known face encoding (replace with the correct path)
-job_image = face_recognition.load_image_file("image/aishwarya.jpeg")
+job_image = face_recognition.load_image_file("image/Raunav.jpg")
 job_encoding = face_recognition.face_encodings(job_image)[0]
 
 paridhi_image = face_recognition.load_image_file("image/priyanka.jpg")
@@ -45,13 +45,12 @@ paridhi_encoding = face_recognition.face_encodings(paridhi_image)[0]
 modiji_image = face_recognition.load_image_file("image/modiji.jpeg")
 modiji_encoding = face_recognition.face_encodings(modiji_image)[0]
 
-salman_image = face_recognition.load_image_file("image/salman.jpeg")
+salman_image = face_recognition.load_image_file("image/Yaman.jpg")
 salman_encoding = face_recognition.face_encodings(salman_image)[0]
-
 
 # Create lists to store known face encodings and names
 known_face_encodings = [job_encoding,paridhi_encoding,modiji_encoding, salman_encoding]
-known_face_names = ["aishwarya","Priyanka","Modi Ji","salman"]
+known_face_names = ["Raunav","Priyanka","Modi Ji","Yaman"]
 
 
 # Sound file path for the alarm sound (replace with the correct path)
